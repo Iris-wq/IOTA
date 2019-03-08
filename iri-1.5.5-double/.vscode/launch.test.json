@@ -1,0 +1,36 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "iri",
+                "projectName": "iri",
+                "workingDirectory": "c:\\Users\\wq\\Downloads\\IOTA\\iri-dev-test\\iri-dev\\target\\iri-1.5.5.jar",
+                "args": [
+                    "-c",
+                    "C:\\Users\\wq\\Downloads\\IOTA\\iri-dev-test\\IRI-Start\\iota.ini"
+                ],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "iri",
+                "projectName": "iri",
+                "workingDirectory": "c:\\Users\\wq\\Downloads\\IOTA\\iri-dev-test\\iri-dev\\target\\iri-1.5.5.jar",
+                "args": [
+                    "-c",
+                    "C:\\Users\\wq\\Downloads\\IOTA\\iri-dev-test\\IRI-Start\\iota.ini"
+                ],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
